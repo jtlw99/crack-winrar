@@ -6,4 +6,7 @@
 - Step 3: Paste the rarreg.key into WinRAR folder
 - Step 4: Enjoy
 
+# Author
+- [Hardikanand1st](https://github.com/Hardikanand1st)
+
 
