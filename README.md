@@ -1,4 +1,4 @@
-# crack-winrar
+# Crack WinRAR
 
 # Tutoral
 - Step 1: Download file "rarreg.key" Link: [Releases](https://github.com/justinl99/crack-winrar/releases/tag/v1)
